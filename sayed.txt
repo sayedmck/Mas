@@ -1,2 +1,3 @@
 Hi
 Changed second line in master
+added second line in dev branch
